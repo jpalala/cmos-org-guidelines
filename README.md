@@ -30,10 +30,10 @@ This guideline is more for the latter type which is usually for tech-oriented or
 
 The [Agile Manifesto](https://agilemanifesto.org/) states:
 
-> Individuals and interactions over processes and tools
-> Working software over comprehensive documentation
-> Customer collaboration over contract negotiation
-> Responding to change over following a plan
+> * Individuals and interactions over processes and tools
+> * Working software over comprehensive documentation
+> * Customer collaboration over contract negotiation
+> * Responding to change over following a plan
 
 As long as these principles are followed, I think the decision to use scrum or not is dependent on how commited the dev team is. The dev team (including BA and QA) should set the pace of the project.
 
